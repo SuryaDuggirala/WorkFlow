@@ -6,3 +6,9 @@ On first use run open up the file and replace "#EMAIL HERE" with your preferred 
 Also run 
 chmod +x calendar.sh
 so that the permissions will work. Once again, super lightweight. 
+
+
+To run the file, run this command in the place you saved it: 
+./calendar.sh
+
+Needs some work.
